@@ -18,7 +18,18 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+-->
 
+  - [Active Directotory Home Lab](https://github.com/nosaj001/ActiveDirectoryLab.git)
+
+
+<h2>Certifications</h2>
+
+
+  - [CompTIA Security+](https://www.linkedin.com/feed/update/urn:li:activity:7066839373975076864/) 
+  - [CompTIA Network+](https://www.linkedin.com/posts/jason-rikard_comptiacertified-network-activity-6903042688200097792-NKDg?utm_source=share&utm_medium=member_desktop)
+
+<!--
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
